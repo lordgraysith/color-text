@@ -56,7 +56,7 @@ var ColorText = (function(){
 			inputElement.removeEventListener(constants.inputEventName, onInputEvent);
 		}
 		wordIndex = {};
-	}
+	};
 
 	getRandomlyColoredSpan = function(value){
 		var R_value = getRandomInt(0,255)
