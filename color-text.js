@@ -200,3 +200,5 @@ var ColorText = (function(){
 		, setMode: setMode
 	};
 })();
+
+//nothing
